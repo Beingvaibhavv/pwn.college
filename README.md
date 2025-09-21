@@ -1,3 +1,3 @@
-# pwn.college_webs
-pwn cryptonite
-stp-1
+# pwn.college
+Linux Luminarium.
+
