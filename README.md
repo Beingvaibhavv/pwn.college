@@ -1,3 +1,3 @@
 # pwn.college
-Linux Luminarium.
+linux luminarium.
 
